@@ -1,0 +1,16 @@
+{
+  "id": "2222411",
+  "name": "wg",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1033987",
+      "name": "游戏",
+      "font_class": "iconfontyouxihudong",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
