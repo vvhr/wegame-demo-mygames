@@ -1,5 +1,13 @@
 # wegame-demo-mygames
 
+## preview 
+![avatar](/preview-01.png)
+![avatar](/preview-02.png)
+
+## 
+
+
+
 ## Project setup
 ```
 npm install
